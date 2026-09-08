@@ -1,4 +1,8 @@
- * @author Bryan Mark - 81032527
+/**
+ * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */)
+ * Incluye las etiquetas @author (Bryan Mark / 81032527) y @version 1.0
+ * 
+ * @author Bryan Mark / 81032527
  * @version 1.0
  */
 public class PerfilEstudianteUTP {
@@ -21,8 +25,10 @@ public class PerfilEstudianteUTP {
         // TODO 2.4: Corrige el tipo de dato al tipo primitivo boolean (sin comillas de texto)
         boolean estaPazYSalvo = true;
 
-        // TODO 2.5: Variable de tipo char con la inicial del segundo nombre
+        // TODO 2.5: Declara una variable de tipo char con la inicial del segundo nombre
+        // Nombre de variable: inicialSegundoNombre | Valor de prueba: 'M'
         char inicialSegundoNombre = 'M';
+
 
         // ==============================================================
         // NIVEL 2: CONSTANTES (final) E INMUTABILIDAD
@@ -30,6 +36,8 @@ public class PerfilEstudianteUTP {
         
         // TODO 3.1: Declara la constante de la cuota con 'final' y convención UPPER_SNAKE_CASE (5.00)
         final double CARNET_ESTUDIANTIL = 5.00;
+
+        // TODO 3.2: Elimina la siguiente línea que viola la inmutabilidad de la constante
 
 
         // ==============================================================
