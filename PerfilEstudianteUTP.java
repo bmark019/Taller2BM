@@ -1,7 +1,6 @@
 /**
  * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */)
  * Incluye las etiquetas @author (Bryan Mark / 81032527) y @version 1.0
- * 
  * @author Bryan Mark / 81032527
  * @version 1.0
  */
